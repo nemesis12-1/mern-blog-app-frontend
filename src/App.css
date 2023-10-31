@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Mulish&family=Noto+Sans&family=Raleway:wght@400;600&family=Special+Elite&display=swap');
+
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: Noto Sans, sans-serif;
+  font-weight: 400;
+  /* color: #222; */
+  /* background-color: #FFF8DC; */
+  /* background-color: rgba(54, 52, 52, 0.89); */
+}
